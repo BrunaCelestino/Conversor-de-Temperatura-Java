@@ -1,5 +1,10 @@
 public enum UnityTemp {
+
     CELSIUS,
     FAHRENHEIT,
-    KELVIN;
+    KELVIN,
+    C,
+    F,
+    K,
+
 }
